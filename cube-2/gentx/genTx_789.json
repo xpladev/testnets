@@ -57,22 +57,17 @@
           "multi": {
             "bitarray": {
               "extra_bits_stored": 3,
-              "elems": {
-                "type": "Buffer",
-                "data": [
-                  192
-                ]
-              }
+              "elems": "YA=="
             },
             "modeInfos": [
               {
                 "single": {
-                  "mode": 127
+                  "mode": "SIGN_MODE_LEGACY_AMINO_JSON"
                 }
               },
               {
                 "single": {
-                  "mode": 127
+                  "mode": "SIGN_MODE_LEGACY_AMINO_JSON"
                 }
               }
             ]
@@ -90,6 +85,6 @@
     }
   },
   "signatures": [
-    "CkDeTax2y6rV+MsIFTvDYwqM4sicS30kKL85OA3nU1MCIHe2NLnUUTlx0ARgskslM6aHMzh4tQsORTirWtTBA3m3CkCkmacxx/JAsaj3vqbyI4S88hG0qh0ud0zcS8y4+qichXdXpcZ4EOsa8H1IEOC+SdSutH7BCnw6FiA2EflcQxtp"
+    "CkCuNi2fqEffS3aOCZu19AVzEQsVwWMQu3c6wPVSlikuk26oPrC1PoPN0gwutI95C28q5WUm2mvtxBNUi73Gpl63CkCguidnp2BhAot4KArjboS+prixg71CBFXBYadD8p2irG/sOFpB/X7W8VDDrnzTeWPsPNhKrFiyVIuxg4VKqzFU"
   ]
 }
