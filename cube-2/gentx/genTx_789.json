@@ -1,0 +1,95 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+        "commission": {
+          "max_change_rate": "0.010000000000000000",
+          "max_rate": "0.200000000000000000",
+          "rate": "0.100000000000000000"
+        },
+        "delegator_address": "xpla1tf8fuzh2gxef2cnwy84s5yp2u0vflclvwlyv7p",
+        "description": {
+          "details": "",
+          "identity": "",
+          "moniker": "test2",
+          "security_contact": "",
+          "website": ""
+        },
+        "min_self_delegation": "1",
+        "pubkey": {
+          "@type": "/cosmos.crypto.ed25519.PubKey",
+          "key": "0PG+9zs6zrIl/U7TLCbdYyyFFvZhr0ECz/4OKW6HITU="
+        },
+        "validator_address": "xplavaloper1tf8fuzh2gxef2cnwy84s5yp2u0vflclvlz8k3u",
+        "value": {
+          "amount": "500000000000000000000000",
+          "denom": "axpla"
+        }
+      }
+    ],
+    "memo": "05b84cb0ea6a42be2b5e3767372c2e251a187495@172.18.3.11:26656",
+    "timeout_height": 0
+  },
+  "auth_info": {
+    "signer_infos": [
+      {
+        "public_key": {
+          "@type": "/cosmos.crypto.multisig.LegacyAminoPubKey",
+          "public_keys": [
+            {
+              "@type": "/cosmos.crypto.secp256k1.PubKey",
+              "key": "AzPDiEABxh4NHoutFOOIdqTE8FCPoJaujzd8C8UVR6gu"
+            },
+            {
+              "@type": "/cosmos.crypto.secp256k1.PubKey",
+              "key": "Atcu15xiUh99PLEOdcNx4t/emwjD+zA2ovppRj/Vx6qF"
+            },
+            {
+              "@type": "/cosmos.crypto.secp256k1.PubKey",
+              "key": "A6M0yA23ZAwbIkIFCyHp4bJaWR0HXrCYYM/euCamux2s"
+            }
+          ],
+          "threshold": "2"
+        },
+        "sequence": 0,
+        "mode_info": {
+          "multi": {
+            "bitarray": {
+              "extra_bits_stored": 3,
+              "elems": {
+                "type": "Buffer",
+                "data": [
+                  192
+                ]
+              }
+            },
+            "modeInfos": [
+              {
+                "single": {
+                  "mode": 127
+                }
+              },
+              {
+                "single": {
+                  "mode": 127
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "fee": {
+      "amount": [
+        
+      ],
+      "gas_limit": "200000",
+      "granter": "",
+      "payer": ""
+    }
+  },
+  "signatures": [
+    "CkDeTax2y6rV+MsIFTvDYwqM4sicS30kKL85OA3nU1MCIHe2NLnUUTlx0ARgskslM6aHMzh4tQsORTirWtTBA3m3CkCkmacxx/JAsaj3vqbyI4S88hG0qh0ud0zcS8y4+qichXdXpcZ4EOsa8H1IEOC+SdSutH7BCnw6FiA2EflcQxtp"
+  ]
+}
