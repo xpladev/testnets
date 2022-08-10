@@ -2,7 +2,7 @@
 
 [xpla@v0.0.3](https://github.com/c2xdev/xpla/releases/tag/v0.0.3) should be used to run the testnet.
 
-- The genesis event for Pisco-1 testnet will occur **2022-07-25T11:45:00Z (UTC)**
+- The genesis event for cube-1 testnet will occur **2022-07-25T11:45:00Z (UTC)**
 
 ## Prerequisites
 * Go v1.18+ or higher
