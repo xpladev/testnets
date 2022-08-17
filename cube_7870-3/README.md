@@ -2,7 +2,7 @@
 
 [xpla@v0.0.5](https://github.com/c2xdev/xpla/releases/tag/v0.0.5) should be used to run the testnet.
 
-- The genesis event for cube_7870-3 testnet will occur **TO BE DETERMINED**
+- The genesis event for cube_7870-3 testnet will occur **2022-08-11T01:30:00Z**
 
 ## Prerequisites
 * Go v1.18+ or higher

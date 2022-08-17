@@ -4,9 +4,13 @@ This repo collects the genesis and configuration files for the XPLA testnets.
 
 ## Latest Networks
 
-* [cube_7870-3](./cube_7870-3) Testnet for XPLA Cosmwasm and eth-secp256k1
+* [cube_47-4](./cube_47-4) Testnet for Mainnet RC
 
 ## Testnet Status
+
+### *2022-08-18T01:00:00Z (UTC)*
+- cube_47-4 launched
+- cube_7870-3 retired
 
 ### *2022-08-11T01:30:00Z (UTC)*
 - cube_7870-3 launched
