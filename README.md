@@ -4,7 +4,7 @@ This repo collects the genesis and configuration files for the XPLA testnets.
 
 ## Latest Networks
 
-* [cube_47-5](./cube_47-5) Testnet for Mainnet RC
+* [cube_47-5](./cube_47-5) Testnet for governance and additional reward test.
 
 ## Testnet Status
 
