@@ -9,6 +9,9 @@ This repo collects the genesis and configuration files for the XPLA testnets.
 
 ## Testnet Status
 
+### *2023-01-09T04:00:00Z (UTC)*
+- hypercube_270-1 retired
+
 ### *2022-11-24T02:00:00Z (UTC)*
 - hypercube_270-1 launched
 
