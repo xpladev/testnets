@@ -1,6 +1,6 @@
 # Testnet hypercube_270-2
 
-[xpla@v1.1.2-cube](https://github.com/xpladev/xpla/releases/tag/v1.1.2-cube) should be used to run the testnet.
+[xpla@0bcc939f0b0936afb7af827932fcc1a4e6d84fba](https://github.com/xpladev/xpla/commit/0bcc939f0b0936afb7af827932fcc1a4e6d84fba) should be used to run the testnet.
 
 - The genesis event for hypercube_270-2 testnet will occur **2023-01-09T08:00:00Z**
 
@@ -14,7 +14,7 @@
 
 ```shell
 $ git clone https://github.com/xpladev/xpla
-$ git checkout v1.1.2-cube
+$ git checkout 0bcc939f0b0936afb7af827932fcc1a4e6d84fba
 $ make install
 
 $ xplad init [moniker] --chain-id hypercube_270-2
