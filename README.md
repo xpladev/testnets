@@ -4,10 +4,11 @@ This repo collects the genesis and configuration files for the XPLA testnets.
 
 ## Latest Networks
 
-* [hypercube_270-1](./hypercube_270-1) Testnet for interoperability of evm and cosmwasm.
 * [cube_47-5](./cube_47-5) Testnet for governance and additional reward test.
 
 ## Testnet Status
+### *2023-03-02T01:00:00Z (UTC)*
+- hypercube_270-2 retired
 
 ### *2023-01-09T08:00:00Z (UTC)*
 - hypercube_270-2 launched
